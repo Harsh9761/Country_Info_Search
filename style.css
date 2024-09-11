@@ -1,0 +1,43 @@
+body{
+    background-color: antiquewhite;
+    background-image: url("https://media.istockphoto.com/id/1955824962/photo/nature-scenic-view-of-the-beach-coconut-trees-clouds-and-the-blue-sky.jpg?s=2048x2048&w=is&k=20&c=oYS14JC9pct6SzRnupvVgJvIsfEcTHHUh_KfsO-6PFE=");
+    background-size: auto;
+    
+}
+#box {
+    height: 500px;
+   
+    margin-left: 30%;
+}  
+input{
+    font-weight: 700;
+    height: 30px;
+    width: 500px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 8px black;
+}  
+button {
+    font-weight: 700;
+    height: 50px;
+    width: 200px;
+    border-radius: 50%;
+    margin-left: 150px;
+    box-shadow: 2px 2px 8px black;
+}
+h1{
+    color: rgb(253, 232, 0);
+    text-decoration: underline;
+    margin-right: 700px;
+    padding-left: 10px;
+    font-weight: 900;
+    margin-left: 100px;
+    box-shadow: 2px 2px 8px black;
+    border-radius: 10px;
+}
+p{
+    text-align: center;
+    background-color: rgb(127, 253, 255);
+    width: 600px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 16px lightblue;
+}
